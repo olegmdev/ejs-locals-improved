@@ -1,4 +1,4 @@
-# ejs-locals
+# ejs-locals-improved
 
 Express 3.x `layout`, `partial` and `block` template functions for the EJS template engine. 
 
@@ -6,7 +6,7 @@ Previously also offered `include` but you should use EJS 0.8.x's own method for 
 
 ## Installation
 
-    $ npm install ejs-locals --save
+    $ npm install ejs-locals-improved --save
 
 (`--save` automatically writes to your `package.json` file, tell your friends)
 
@@ -172,6 +172,7 @@ The blocks idea and syntax comes from Aseem Kishore's [express-blocks](https://g
 
 Copyright (c) 2012 Robert Sk&ouml;ld &lt;robert@publicclass.se&gt;
 Copyright (c) 2012 Tom Carden &lt;tom@tom-carden.co.uk&gt;
+Copyright (c) 2012 Oleg Meleshko &lt;qu1ze34@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
