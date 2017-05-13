@@ -1,6 +1,6 @@
 # ejs-locals-improved
 
-Express 3.x `layout`, `partial` and `block` template functions for the EJS template engine. 
+Express 3.x `layout`, `partial` and `block` template functions for the EJS template engine.
 
 Previously also offered `include` but you should use EJS 0.8.x's own method for that now.
 
@@ -13,7 +13,7 @@ Previously also offered `include` but you should use EJS 0.8.x's own method for 
 
 ## Usage
 
-Run `node app.js` from `examples` and open `localhost:3000` to see a working example.
+Run `node app.js` from `examples` and open your browser to see a working example.
 
 Given a template, `index.ejs`:
 
