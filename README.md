@@ -1,5 +1,7 @@
 # ejs-locals-improved
 
+> Is not recommended to be used
+
 Express 3.x `layout`, `partial` and `block` template functions for the EJS template engine.
 
 Previously also offered `include` but you should use EJS 0.8.x's own method for that now.
