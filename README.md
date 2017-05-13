@@ -1,6 +1,6 @@
 # ejs-locals-improved
 
-> Is not recommended to be used
+> Is not recommended to be used. Use Jade, Handlebars/Mustache etc.
 
 Express 3.x `layout`, `partial` and `block` template functions for the EJS template engine.
 
